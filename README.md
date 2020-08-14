@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruster-cn" alt="ruster-cn" /> </p>
 
 <h3 align="left">Personal Skills</h3>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://avatars3.githubusercontent.com/u/5430905?s=200&v=4" alt="rust" width="40" height="40"/></p>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://avatars3.githubusercontent.com/u/5430905?s=200&v=4" alt="rust" width="40" height="40"/><img src="https://avatars0.githubusercontent.com/u/41972792?s=200&v=4" alt="etcd" width="40" height="40"/></p>
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=ruster-cn)
