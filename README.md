@@ -12,8 +12,8 @@
 <h3 align="left"> Contact</h3>
 &nbsp
 
-Email: peiminmin@yeah.net
-WeChat: BestGust
+* Email: peiminmin@yeah.net
+* WeChat: BestGust
 
 ![Personal WeChat](./80353346f9ae8eee97de408592c98032.jpg)
 
