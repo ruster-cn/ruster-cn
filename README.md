@@ -6,7 +6,7 @@
 <h3 align="left"> About the ruster-cn</h3>
 &nbsp
 
-<b>I‘m technology enthusiast from Ireland. My Chinese name is peiminmin，I have lived in China for 20 years. And I'm cloud native enthusiast, who has been working in the cloud native field for a long time, has rich experience in cloud native，for example kubernetes,etcd,harbor.</b>
+<b>I‘m technology enthusiast from Vakanda. My Chinese name is peiminmin，I have lived in China for 20 years. And I'm cloud native enthusiast, who has been working in the cloud native field for a long time, has rich experience in cloud native，for example kubernetes,etcd,harbor.</b>
 
 
 <h3 align="left"> Contact</h3>
